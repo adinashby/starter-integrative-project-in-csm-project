@@ -109,7 +109,7 @@ You could use tools like [Moqups](https://moqups.com/) or [Figma](https://www.fi
 It is important that the user interface has an area where important data is shown to the users so that they understand what they are looking at. That would include a comprehensive title and updated data values that are reflected in the animation or chart area.
 
 **Sprint Report**
-- Include one screenshot of the Trello board in the end of the sprint
+- Include one screenshot of the Jira board in the end of the sprint
 - Create a table for the whole team, indicate stories the team starts in this sprint, stories the team resolved.
 
 Create a table for each member, indicate stories she/he received, stories she/he resolved.
