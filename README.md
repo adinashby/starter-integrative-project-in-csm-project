@@ -35,7 +35,7 @@ The program should have the following characteristics:
 
 ### Logistics
 
-1. The teams should be consisted of ```three to four students max```.
+1. The teams should be consisted of ```minimum three to four students max```.
 2. All team members must be involved in the full development i.e., you should understand and be able to implement all parts of the project. This will be the basis of evaluation.
 3.	Each team member should develop at least one part that requires integration with the whole project; it could be the implementation of a related concept, a variation of the concept, or an independent concept that can be integrated with the concepts of the other team members as part of the same application.
 
